@@ -1,33 +1,31 @@
 # 🧠 Brainrot Checker
 
-A fun, gamified website to test your brain health, meme knowledge, and cognitive abilities through interactive challenges and mini-games.
+A gamified website that tests your meme knowledge, reaction speed, memory, and internet-chaos instincts.
 
 ## Features
 
-- **Brainrot Level Scanner**: Measure your meme/internet culture knowledge
-- **Cognitive Mini-Games**: Memory, pattern recognition, reaction time challenges
-- **Leaderboard System**: Compete with friends globally
-- **Achievement Badges**: Unlock achievements as you progress
-- **Daily Challenges**: New tests every day
-- **Share Your Score**: Post results to social media
+- Futuristic neon landing page
+- Quiz/game challenge sections
+- Score and leaderboard feel
+- Daily challenge box
+- Responsive layout
 
-## Tech Stack
+## Tech stack
 
-- **Frontend**: Next.js, React, TypeScript
-- **Styling**: Tailwind CSS, Framer Motion
-- **Backend**: Node.js/API Routes
-- **Database**: MongoDB
-- **Deployment**: Vercel
+- Next.js
+- React
+- TypeScript
+- CSS
 
-## Getting Started
+## Run locally
 
 ```bash
 npm install
 npm run dev
 ```
 
-Visit `http://localhost:3000`
+Then open `http://localhost:3000`.
 
 ---
 
-**Made with 🎮 for gamers who want to know if their brains are cooked**
+Built for people who want to know if their brain is cooked or still thriving.
